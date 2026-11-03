@@ -1,0 +1,12 @@
+[
+  {"file":".gitignore","sha256":"189d2081eae5a34092af1e504c694cbb6d222ce1c170328d80f2f754294a0a61","bytes":235},
+  {"file":"GITHUB_UPLOAD_INSTRUCTIONS.md","sha256":"b923b08896420d5f9582f66f287aaa2a6e4d83ab46850adfcf622de0aa576eb3","bytes":1089},
+  {"file":"README.md","sha256":"29f24910eefd90832f799e10798e1eec031829e41c35e07682454d1e7784f725","bytes":4029},
+  {"file":"data/Table1_initial_cohort_metrics.csv","sha256":"31f9c60fda7fabfeba010a99f7bd9ce877d462da14a75e4b68626faac1cc3c01","bytes":267},
+  {"file":"data/Table2_region_summary.csv","sha256":"b226b8a6e50209dcd0045cf3590ad5040359657de271c1ddda00196cbc7bc802","bytes":1842},
+  {"file":"docs/DATA_DICTIONARY.md","sha256":"b4e86ce5ba580caec09f31e1535f97df29ccd4c4bb0010d87184780759777924","bytes":1560},
+  {"file":"docs/ORIGINAL_SOURCE_LINKS.md","sha256":"f73943f4b6fedbacd1e6a356b4f5ccfbe410214036a6e24c5379dfdbaa949c7d","bytes":998},
+  {"file":"docs/PUBLICATION_AND_LICENSE_REVIEW.md","sha256":"c8a17cdc3e403b2da29b29b71c94c30427b796cc2db67f8d12ca1f49a16349e8","bytes":1595},
+  {"file":"docs/SOURCE_BOUNDARIES.md","sha256":"a15b34d27254ba2d5a994b59b795668ecab01b871a8ebea220ff3444beb9faaa","bytes":1873},
+  {"file":"scripts/validate_summaries.py","sha256":"19cbaf37f999f77da53eb8f6a93559997dde2a9e953381386d8746555a7441b3","bytes":2558}
+]
